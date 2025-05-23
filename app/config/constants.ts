@@ -1,1 +1,1 @@
-export const API_URL = process.env.NEXT_PUBLIC_API_URL || 'https://feedback-backend-nwu3.onrender.com/api'; 
+export const API_URL = process.env.NEXT_PUBLIC_API_URL || 'https://form-demo-backend.onrender.com'; 
