@@ -85,7 +85,7 @@ export default function DisplayPage() {
 
   return (
     <div className="table-container">
-      <h1 className="table-title">Submitted Entries</h1>
+      <h1 className="table-title">User List</h1>
       
       {/* Edit form */}
       {editingEntry && (
