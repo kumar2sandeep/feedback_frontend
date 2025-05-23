@@ -23,10 +23,10 @@ export default function RootLayout({
             <span className="nav-link">Form App</span>
             <div className="nav-links">
               <Link href="/" className="nav-link">
-                Form Page
+                Form
               </Link>
               <Link href="/display" className="nav-link">
-                Display Data
+              List
               </Link>
             </div>
           </div>

@@ -36,7 +36,7 @@ export default function FormPage() {
 
   return (
     <div className="form-container">
-      <h1 className="form-title">Submit Form</h1>
+      <h1 className="form-title">Submit Details</h1>
       
       <form onSubmit={handleSubmit(onSubmit)}>
         <FormField
@@ -88,7 +88,7 @@ export default function FormPage() {
         />
 
         <button type="submit" className="submit-button">
-          Submit
+          Save
         </button>
       </form>
 
